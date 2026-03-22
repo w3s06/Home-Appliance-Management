@@ -1,5 +1,5 @@
 
-# Home Appliance Management System (Java)
+# Home Appliance Management System (Java 21)
 
 A structured and efficient Java application designed to manage home appliances through a clean, object‑oriented architecture. The system allows users to add, update, view, and search appliance data with persistent storage handled through file‑based I/O.
 
