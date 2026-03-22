@@ -11,38 +11,37 @@ A structured and efficient Java application designed to manage home appliances t
 - **User‑friendly CLI menu system** for quick and intuitive navigation.
 
 ## 🧰 Tech Stack
-- **Language:** Java (your version here)
-- **Concepts:** Object-Oriented Programming, exception handling, file I/O, collections
-- **Tools:** (Optional) IntelliJ IDEA / VS Code / Maven / Gradle  
+- **Language:** Java 21
+- **Concepts:** Object-Oriented Programming, exception handling, file I/O, collections 
 - **Version Control:** Git + GitHub
 
 ## 📁 Project Structure
-Home-Appliance-System/
-│
-├── src/
-│   ├── Admin.java
-│   ├── ConcreteProduct.java
-│   ├── Customer.java
-│   ├── EnergyEfficiency.java
-│   ├── FinancingPayment.java
-│   ├── HomeApplianceStoreSystem.java
-│   ├── InStorePayment.java
-│   ├── Product.java
-│   ├── ProductCategory.java
-│   ├── ProductDisplayHelper.java
-│   ├── Refrigerator.java
-│   ├── ReservationConfirmation.java
-│   ├── ReservationManager.java
-│   ├── ReservationMethod.java
-│   ├── ShoppingBasket.java
-│   ├── User.java
-│   ├── UserManager.java
-│   └── WashingMachine.java
-│
-├── data/
-│   ├── Stock.txt
-│   └── UserAccounts.txt
-│
-├── README.md
-├── LICENSE
-└── .gitignore
+- Home-Appliance-System/
+- │
+- ├── src/
+- │   ├── Admin.java
+- │   ├── ConcreteProduct.java
+- │   ├── Customer.java
+- │   ├── EnergyEfficiency.java
+- │   ├── FinancingPayment.java
+- │   ├── HomeApplianceStoreSystem.java
+- │   ├── InStorePayment.java
+- │   ├── Product.java
+- │   ├── ProductCategory.java
+- │   ├── ProductDisplayHelper.java
+- │   ├── Refrigerator.java
+- │   ├── ReservationConfirmation.java
+- │   ├── ReservationManager.java
+- │   ├── ReservationMethod.java
+- │   ├── ShoppingBasket.java
+- │   ├── User.java
+- │   ├── UserManager.java
+- │   └── WashingMachine.java
+- │
+- ├── data/
+- │   ├── Stock.txt
+- │   └── UserAccounts.txt
+- │
+- ├── README.md
+- ├── LICENSE
+- └── .gitignore
