@@ -17,3 +17,32 @@ A structured and efficient Java application designed to manage home appliances t
 - **Version Control:** Git + GitHub
 
 ## 📁 Project Structure
+Home-Appliance-System/
+│
+├── src/
+│   ├── Admin.java
+│   ├── ConcreteProduct.java
+│   ├── Customer.java
+│   ├── EnergyEfficiency.java
+│   ├── FinancingPayment.java
+│   ├── HomeApplianceStoreSystem.java
+│   ├── InStorePayment.java
+│   ├── Product.java
+│   ├── ProductCategory.java
+│   ├── ProductDisplayHelper.java
+│   ├── Refrigerator.java
+│   ├── ReservationConfirmation.java
+│   ├── ReservationManager.java
+│   ├── ReservationMethod.java
+│   ├── ShoppingBasket.java
+│   ├── User.java
+│   ├── UserManager.java
+│   └── WashingMachine.java
+│
+├── data/
+│   ├── Stock.txt
+│   └── UserAccounts.txt
+│
+├── README.md
+├── LICENSE
+└── .gitignore
